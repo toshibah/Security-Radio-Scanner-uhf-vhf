@@ -1,0 +1,7 @@
+{
+  "name": "Portable Radio Frequency Scanner",
+  "description": "Professional All and Specified Radio Frequency and Activity Monitoring and Spectrum Intelligence Dashboard. Features real-time frequency scanning, waterfall visualization, and signal mapping.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
